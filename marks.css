@@ -1,0 +1,48 @@
+tr,td,input[type="number"]{
+    text-align: center;
+    right:20%;
+
+}
+#btn{
+    align-items: center;
+    background-color:red;
+    cursor: pointer;
+}
+#btn:hover{
+    background-color: crimson;
+}
+input{
+    width:250px;
+    
+    
+}
+.centre{
+    margin-left: auto;
+    margin-right: auto;
+}
+body{
+    background-image: url(picture.jpg);
+   
+  
+}
+.container{
+    border:14px solid black;
+    width: 46%;
+    height:40%;
+    align-items: center;
+    background-color:rgb(192, 192, 192);
+    right:28%;
+    position: absolute;
+}
+p{
+    font-size: 40px;
+    color:white;
+    top:50%;
+}
+
+table{
+    align-items: center;
+}
+h1{
+    font-size: 40px;
+}
